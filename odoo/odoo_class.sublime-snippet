@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+class ${1:Clase}(model.Model)
+	"""${2:Descripcion de la Clase}"""
+	_name = '$1'
+	_rec_name = '$3']]></content>
+		<tabTrigger>class</tabTrigger>
+		<scope>source.python</scope>
+		<description>Clase en odoo</description>
+</snippet>

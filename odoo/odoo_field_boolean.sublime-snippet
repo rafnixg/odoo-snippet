@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fields.Boolean('${1:Nombe del Campo}',required=${2:True o False},help='${3:texto de ayuda}')]]></content>
+		<tabTrigger>fields.Boolean</tabTrigger>
+		<scope>source.python</scope>
+		<description>Campo Boolean odoo</description>
+</snippet>
