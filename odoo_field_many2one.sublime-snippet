@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fields.Many2one('${1:objeto}','${2:Literal}',required=${3:True o False},help='${4:texto de ayuda}')]]></content>
+		<tabTrigger>fields.Many2one</tabTrigger>
+		<scope>source.python</scope>
+		<description>Campo Many2one en odoo</description>
+</snippet>

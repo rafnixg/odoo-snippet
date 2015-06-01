@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fields.Char('${1:Literal}',size=$2,required=${3:False o True},help='${4:texto de ayuda}')]]></content>
+		<tabTrigger>fields.Char</tabTrigger>
+		<scope>source.python</scope>
+		<description>Campo Char odoo</description>
+</snippet>
